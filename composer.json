@@ -1,5 +1,5 @@
 {
-    "name": "esdlyonb1-2425/frameworkphp",
+    "name": "esdlyonb2-2526/frameworkphp",
     "description": "A simple PHP MVC framework",
     "type": "project",
     "autoload": {
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "ESD Lyon B1 2425"
+            "name": "ESD Lyon B2 2526"
         }
     ],
     "require": {}
