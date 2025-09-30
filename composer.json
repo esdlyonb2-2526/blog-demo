@@ -1,6 +1,7 @@
 {
     "name": "esdlyonb2-2526/frameworkphp",
     "description": "A simple PHP MVC framework",
+    "license": "Unlicense",
     "type": "project",
     "autoload": {
         "psr-4": {
